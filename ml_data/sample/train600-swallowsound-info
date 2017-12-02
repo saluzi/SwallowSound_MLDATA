@@ -1,0 +1,4 @@
+SPL_MAX = 82
+SPL_MIN = 25
+INPUT:
+{ "name": "TensorflowDatasetParameters", "type": "random_points", "size": 600, "grid_min_x": 0.0, "grid_min_y": 0.0, "grid_size_x": 5.0, "grid_size_y": 5.0, "grid_row": 50, "grid_col": 50, "max_pwl": 110.0, "min_pwl":80.0, "spl_offset":25, "num_classes":75, "points_number_max":30, "points_number_min":1, "dataset_name": 'swallowsound', "dataset_type": 'train600', "dataset_forder": 'D:\\workspaces\\tensorflow\\swallowsound\\ml_data\\sample' }
