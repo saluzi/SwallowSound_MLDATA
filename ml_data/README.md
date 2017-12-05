@@ -1,3 +1,3 @@
-###Machine Learning DataSet of SwallowSound Project
+# Machine Learning DataSet of SwallowSound Project
 
-*sample folder: for test only.
+1. sample folder: for test only.
